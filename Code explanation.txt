@@ -1,0 +1,13 @@
+FFT_Dog.m ---- FFT Method for Calculating Dog-bone Model with Uniform Neumann Boundary Conditions (MATLAB R2023b)
+
+Reduce_Data.m ---- Handle FEM calculation results and FFT calculation results (MATLAB R2023b)
+
+\FEM\Dog.cae ---- FEM calculation file (ABAQUS 2023)
+
+\FEM\Extract_Field.py ---- Extract field variables from abaqus results as .mat file (Running scripts in Abaqus)
+
+FFT_sig11.mat, FFT_sig22.mat, FFT_sig12.mat ---- FFT calculation results
+
+\FEM\S11.mat, \FEM\S22.mat, \FEM\S12.mat ---- FEM calculation results
+
+P1_P5.mat ---- P1-P5 FEM and FFT calculation results
